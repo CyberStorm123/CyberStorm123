@@ -8,4 +8,4 @@
 
 <p>&nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="cyberstorm123" /></p>
+
